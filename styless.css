@@ -1,0 +1,14 @@
+
+
+
+body {
+	background: lightskyblue;
+	color: whitesmoke;
+	font-size: 12pt;
+	font-family: 'Merriweather', serif;
+}
+
+resize {
+	width:50px;
+	height:30px;
+			}
